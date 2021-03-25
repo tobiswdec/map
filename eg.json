@@ -900,19 +900,6 @@
         {
          "columns":8,
          "firstgid":5677,
-         "image":"..\/..\/..\/Downloads\/floor_tiles.png",
-         "imageheight":128,
-         "imagewidth":256,
-         "margin":0,
-         "name":"floorrssss",
-         "spacing":0,
-         "tilecount":32,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":8,
-         "firstgid":5709,
          "image":"tiles_png\/floor_tiles.png",
          "imageheight":128,
          "imagewidth":256,
