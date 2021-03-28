@@ -795,8 +795,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":3,
          "firstgid":3331,
-         "source":"tiles_png\/SWDEC.tsx"
+         "image":"tiles_png\/swdec\/Willkommen.png",
+         "imageheight":32,
+         "imagewidth":96,
+         "margin":0,
+         "name":"swdec",
+         "spacing":0,
+         "tilecount":3,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
