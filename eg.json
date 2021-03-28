@@ -795,14 +795,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
+         "columns":8,
          "firstgid":3331,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
          "margin":0,
          "name":"SWDEC",
          "spacing":0,
