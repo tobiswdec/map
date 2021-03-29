@@ -380,12 +380,12 @@
          "height":80,
          "id":42,
          "name":"Website_Kloparty_Party",
-         "opacity":1,
+         "opacity":0.46,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=N7oaSujSdG4"
+                 "value":"https:\/\/www.youtube.com\/embed\/dO0W5duIkzk"
                 }],
          "type":"tilelayer",
          "visible":true,
