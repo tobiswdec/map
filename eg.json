@@ -403,7 +403,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=_zHmUT9qv-8"
+                 "value":"https:\/\/www.youtube.com\/embed\/_zHmUT9qv-8"
                 }],
          "type":"tilelayer",
          "visible":true,
