@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eg.json#startSporthalle"
+                 "value":"eg.json#startHalle"
                 }],
          "type":"tilelayer",
          "visible":true,
