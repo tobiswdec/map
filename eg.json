@@ -297,6 +297,12 @@
          "id":59,
          "name":"party klo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/SbQbadM60qM?autoplay=1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
