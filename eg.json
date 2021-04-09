@@ -301,7 +301,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"og.json"
+                 "value":"og.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
