@@ -110,7 +110,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eg.json#startOG"
+                 "value":"kv-karlsruhe-eg.json#startOG"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -128,7 +128,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eg.json#startOGAufzug"
+                 "value":"kv-karlsruhe-eg.json#startOGAufzug"
                 }],
          "type":"tilelayer",
          "visible":true,

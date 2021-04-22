@@ -379,7 +379,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"og.json#startTreppe"
+                 "value":"kv-karlsruhe-og.json#startTreppe"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,7 +397,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"og.json#startAufzug"
+                 "value":"kv-karlsruhe-og.json#startAufzug"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,7 +415,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"sporthalle.json"
+                 "value":"kv-karlsruhe-sporthalle.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -433,7 +433,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eg.json#startOutsideSecretRoom"
+                 "value":"kv-karlsruhe-eg.json#startOutsideSecretRoom"
                 }],
          "type":"tilelayer",
          "visible":true,

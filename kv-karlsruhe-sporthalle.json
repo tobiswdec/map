@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"eg.json#startSporthalle"
+                 "value":"kv-karlsruhe-eg.json#startSporthalle"
                 }],
          "type":"tilelayer",
          "visible":true,
