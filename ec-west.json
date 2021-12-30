@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"eg.json"
+        }
+    },
  "height":80,
  "infinite":false,
  "layers":[
@@ -456,7 +464,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pax-anders.de\/features-in-dobel\/"
+                 "value":"https:\/\/ec-west.de\/kjcwg\/"
                 }],
          "type":"tilelayer",
          "visible":true,
