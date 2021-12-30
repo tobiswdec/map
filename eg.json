@@ -518,7 +518,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/ueber-uns\/#grundsaetze"
+                 "value":"https:\/\/ec-west.de\/ueber-uns\/ec-west-referenten\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -586,6 +586,12 @@
          "id":44,
          "name":"Website_Veranstaltungen",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/ec-west.de\/teilnehmer\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":110,
@@ -602,7 +608,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pax-anders.de\/imagevideo\/"
+                 "value":"https:\/\/www.youtube.com\/watch?v=IPeBLFE82vY"
                 }],
          "type":"tilelayer",
          "visible":true,
