@@ -626,7 +626,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/arbeitsbereiche\/kinder-und-jungschar\/"
+                 "value":"https:\/\/ec-west.de\/arbeit-mit-kindern\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -644,7 +644,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/arbeitsbereiche\/teenager\/"
+                 "value":"https:\/\/ec-west.de\/teen-und-jugendarbeit\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -662,7 +662,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/arbeitsbereiche\/junge-erwachsene\/"
+                 "value":"https:\/\/ec-west.de\/arbeit-mit-jungen-erwachsenen\/"
                 }],
          "type":"tilelayer",
          "visible":true,
