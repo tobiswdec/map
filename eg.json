@@ -536,7 +536,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/ueber-uns\/mitarbeiter\/"
+                 "value":"https:\/\/ec-west.de\/teilnehmer\/vorstand\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -554,7 +554,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/jobs\/"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -572,7 +572,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.swdec.de\/spenden\/"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -608,7 +608,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=IPeBLFE82vY"
+                 "value":"https:\/\/ec-west.de\/imagevideo_together\/"
                 }],
          "type":"tilelayer",
          "visible":true,
